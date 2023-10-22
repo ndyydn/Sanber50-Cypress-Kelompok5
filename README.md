@@ -6,7 +6,7 @@ Create an Account = Rayhan
 
 Login = Lilyan
 
-Choose Product = Nadya
+Choose Products = Nadya Arumda
 
 View and Update Shopping Cart = Rizki
 
